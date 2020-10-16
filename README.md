@@ -1,0 +1,4 @@
+# linkbudget
+Link Budget Analysis
+
+By definition, link budget is the ratio between the signal powers at the receiver antenna output and the transmitter antenna input. It can be calculated through Friis transmission equation with accounting all the gains and losses across the whole transmitter and receiver chain.  From a Friis equation and a signal processing perspective, link budget (in dBm) improves logarithmically with increasing signal spreading gain and reducing signal bandwidth, in addition to transmitted signal power. The catch, however, is as you increase the signal spreading gain or coding gain in time domain or reduce the signal bandwidth in frequency domain, the device's battery life itself is reduced, accordingly.  In other words, if you want to improve the cell coverage of a IoT system,  then the battery life of served IoT devices will be shortened, except to use a larger battery.
