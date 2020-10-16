@@ -1,4 +1,4 @@
-# Calculate and Understand Link-Budget Analysis
+# What, How and Why to Link-Budget Analysis
 
 Link-budge analysis is one of the serveal tools for evaluating and understanding communication system desig. Other tools include power-budget analysis and error-budget analysis.  By definition, link budget is the ratio between the signal powers at the receiver antenna output and the transmitter antenna input. It can be calculated through Friis transmission equation with accounting all the gains and losses across the whole transmitter and receiver chain. Though literally defined by the effective transmission and reception signal powers, it highly depends on the channel betwwen the transitter and receiver pair, which is a function of bandwidth, multipath and attenuation in general.
 
